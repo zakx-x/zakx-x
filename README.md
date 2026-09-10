@@ -9,6 +9,6 @@ software engineer, AI trainer, fullstack dev, editor/designer, n game engineer.
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,unity,php,laravel,js,react,css,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,python,unity,php,laravel,js,react,nextjs,css,github&theme=dark" />
   </a>
 </div>
