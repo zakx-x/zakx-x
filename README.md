@@ -13,8 +13,8 @@ software engineer, AI trainer, fullstack dev, editor/designer, n game engineer.
   </a>
 </div>
 
-### Contribution Graph
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakx-x&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zakx-x&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Zak's Stats" />
 </div>
