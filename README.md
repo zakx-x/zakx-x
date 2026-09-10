@@ -4,3 +4,11 @@
 
 ### About
 software engineer, AI trainer, fullstack dev, editor/designer, n game engineer.
+
+### Core Skills
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,unity,php,laravel,js,react,css,github&theme=dark" />
+  </a>
+</div>
