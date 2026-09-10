@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="LINK_GAMBAR_BANNER_KAMU_DISINI.png" alt="Banner" width="100%" />
+  <img src="nei.jpg" alt="Banner" width="100%" />
 </div>
 
 ### About
