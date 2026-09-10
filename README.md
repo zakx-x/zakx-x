@@ -13,8 +13,8 @@ software engineer, AI trainer, fullstack dev, editor/designer, n game engineer.
   </a>
 </div>
 
-### GitHub Stats
+### GitHub Activity Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakx-x&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&v=1" alt="Zak's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakx-x&theme=dark&hide_border=true&background=0d1117" alt="Zak's GitHub Streak" />
 </div>
