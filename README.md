@@ -3,12 +3,12 @@
 </p>
 
 ### About
-software engineer, AI trainer, fullstack dev, editor/designer, n game engineer.
+software engineer, AI trainer, fullstack & game engineer
 
 ### Core Skills
 
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,dart,unity,php,laravel,js,react,html,ae,pr,photoshop,nextjs,css,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,python,dart,unity,php,laravel,js,react,html,,nextjs,css,kotlin,java&theme=dark" />
   </a>
 </div>
